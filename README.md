@@ -1,7 +1,7 @@
 # qna-bot-v-4
 Demonstrate the core capabilities of the Microsoft Bot Framework
 
-This bot has been created using [Bot Framework][1], it shows how to create a simple bot that accepts input from the user and echoes it back.
+This bot has been created using [web app microsoft teams][1], it shows how to create a simple bot that accepts input from the user and echoes it back.
 
 ## Prerequisites
 - [Node.js][4] version 8.5 or higher
